@@ -13,3 +13,5 @@ Links, Documents, Files and other stuff
 
 [Assignment 1 Evaluation Criteria](https://github.com/jniziol/TechnicalWritingSkills/raw/master/Evalution%20Criteria%20-%20Email.pdf)
 
+[Subject Verb Agreement Worksheet](https://github.com/jniziol/TechnicalWritingSkills/raw/master/Subject%20Verb%20Agreement.pdf)
+
