@@ -11,5 +11,5 @@ Links, Documents, Files and other stuff
 
 [Week 1 Email Assignment](https://github.com/jniziol/TechnicalWritingSkills/raw/master/Lesson%203%20-%20Email%20Writing%20Assignment.pdf)
 
-[Assignment 1 Evaluation Criteria](https://github.com/jniziol/TechnicalWritingSkills/raw/master/Evaluation%20Criteria%20-%20Email%201.pdf)
+[Assignment 1 Evaluation Criteria](https://github.com/jniziol/TechnicalWritingSkills/raw/master/Evaluation%20Criteria%20-%20Email.pdf)
 
