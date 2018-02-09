@@ -13,6 +13,8 @@ Links, Documents, Files and other stuff
 
 [Lecture 4 Slides](https://github.com/jniziol/TechnicalWritingSkills/raw/master/Lesson%204.pdf)
 
+[Lecture 5 Slides](https://github.com/jniziol/TechnicalWritingSkills/raw/master/Lesson%205.pdf)
+
 [Week 1 Email Assignment](https://github.com/jniziol/TechnicalWritingSkills/raw/master/Lesson%203%20-%20Email%20Writing%20Assignment.pdf)
 
 [Assignment 1 Evaluation Criteria](https://github.com/jniziol/TechnicalWritingSkills/raw/master/Evalution%20Criteria%20-%20Email.pdf)
