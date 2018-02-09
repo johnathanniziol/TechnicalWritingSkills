@@ -21,3 +21,6 @@ Links, Documents, Files and other stuff
 
 [Subject Verb Agreement Worksheet](https://github.com/jniziol/TechnicalWritingSkills/raw/master/Subject%20Verb%20Agreement.pdf)
 
+[Dependant and Independant Clauses Worksheet](https://github.com/jniziol/TechnicalWritingSkills/raw/master/Dependent%20and%20Independent%20Clauses%20Worksheet.pdf)
+
+
