@@ -28,3 +28,5 @@ Links, Documents, Files and other stuff
 [Week 2 Email Assignment](https://github.com/jniziol/TechnicalWritingSkills/raw/master/Lesson%207%20-%20Email%20Writing%20Assignment.pdf)
 
 [Email 2 Evaluation Criteria](https://github.com/jniziol/TechnicalWritingSkills/raw/master/Evalution%20Criteria%20-%20Email.pdf)
+
+[Lecture 6 Slides](https://github.com/jniziol/TechnicalWritingSkills/raw/master/Lesson%206.pdf)
