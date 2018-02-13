@@ -23,4 +23,8 @@ Links, Documents, Files and other stuff
 
 [Dependant and Independant Clauses Worksheet](https://github.com/jniziol/TechnicalWritingSkills/raw/master/Dependent%20and%20Independent%20Clauses%20Worksheet.pdf)
 
+## Week 2
 
+[Week 2 Email Assignment](https://github.com/jniziol/TechnicalWritingSkills/raw/master/Lesson%207%20-%20Email%20Writing%20Assignment.pdf)
+
+[Email 2 Evaluation Criteria](https://github.com/jniziol/TechnicalWritingSkills/raw/master/Evalution%20Criteria%20-%20Email.pdf)
