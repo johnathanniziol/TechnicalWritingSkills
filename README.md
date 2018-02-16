@@ -30,3 +30,8 @@ Links, Documents, Files and other stuff
 [Email 2 Evaluation Criteria](https://github.com/jniziol/TechnicalWritingSkills/raw/master/Evalution%20Criteria%20-%20Email.pdf)
 
 [Lecture 6 Slides](https://github.com/jniziol/TechnicalWritingSkills/raw/master/Lesson%206.pdf)
+
+[Lecture 8 Slides](https://github.com/jniziol/TechnicalWritingSkills/raw/master/Lesson%208.pdf)
+
+[Lecture 9 Slides](https://github.com/jniziol/TechnicalWritingSkills/raw/master/Lesson%209.pdf)
+
