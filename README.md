@@ -35,3 +35,7 @@ Links, Documents, Files and other stuff
 
 [Lecture 9 Slides](https://github.com/jniziol/TechnicalWritingSkills/raw/master/Lesson%209.pdf)
 
+[Punctuation Worksheet](https://github.com/jniziol/TechnicalWritingSkills/raw/master/Lesson%208%20-%20Punctuation.pdf)
+
+[Punctuation Worksheet Answers](https://github.com/jniziol/TechnicalWritingSkills/raw/master/Lesson%208%20-%20Punctuation%20-%20Answer%20Key.pdf)
+
