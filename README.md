@@ -40,3 +40,9 @@ Links, Documents, Files and other stuff
 [Punctuation Worksheet Answers](https://github.com/jniziol/TechnicalWritingSkills/raw/master/Lesson%208%20-%20Punctuation%20-%20Answer%20Key.pdf)
 
 [Clarity and Conciseness Exercise Answer Key](https://github.com/jniziol/TechnicalWritingSkills/raw/master/Clarity%20and%20Conciseness%20(Answer%20Key).pdf)
+
+## Week 3
+
+[Week 3 Email Assignment](https://github.com/jniziol/TechnicalWritingSkills/raw/master/Email%20Writing%20Assignment%20%233.pdf)
+
+[Email 3 Evaluation Criteria](https://github.com/jniziol/TechnicalWritingSkills/raw/master/Email%20%233%20Evaluation%20Criteria.pdf)
