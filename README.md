@@ -50,3 +50,5 @@ Links, Documents, Files and other stuff
 ## Week 4
 
 [Email 4 Evaluation Criteria](https://github.com/jniziol/TechnicalWritingSkills/raw/master/SD-160%20Email%20%234%20-%20Rubric.pdf)
+
+[Week 4 Email Assignment](https://github.com/jniziol/TechnicalWritingSkills/raw/master/Email%20Writing%20Assignment%20%234.pdf)
