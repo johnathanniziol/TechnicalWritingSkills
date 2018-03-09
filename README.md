@@ -58,3 +58,9 @@ Links, Documents, Files and other stuff
 [Email Assignment #5](https://github.com/jniziol/TechnicalWritingSkills/raw/master/Email%20Writing%20Assignment%20%235.pdf)
 
 [Email 5 Evaluation Criteria](https://github.com/jniziol/TechnicalWritingSkills/raw/master/SD-160%20Technical%20Writing%20-%20Email%20%235%20-%20Sheet1.pdf)
+
+[Writing Task 2 Submission Link](https://www.dropbox.com/request/vzI22en3Dm2LGViG3moD)
+
+[Writing Task 2 Rubric](https://github.com/jniziol/TechnicalWritingSkills/raw/master/SD-160%20In%20Class%20Writing%20Task%20%232%20-%20Rubric.pdf)
+
+[Writing Task 2](https://github.com/jniziol/TechnicalWritingSkills/raw/master/In-class%20Writing%20Task%202.pdf)
