@@ -64,3 +64,9 @@ Links, Documents, Files and other stuff
 [Writing Task 2 Rubric](https://github.com/jniziol/TechnicalWritingSkills/raw/master/SD-160%20In%20Class%20Writing%20Task%20%232%20-%20Rubric.pdf)
 
 [Writing Task 2](https://github.com/jniziol/TechnicalWritingSkills/raw/master/In-class%20Writing%20Task%202.pdf)
+
+[Slides - Memos 1](https://github.com/jniziol/TechnicalWritingSkills/raw/master/Lesson%2020%20-%20Memos.pdf)
+
+[Slides - Memos 2](https://github.com/jniziol/TechnicalWritingSkills/raw/master/Lesson%2021%20-%20Memos%20%26%20Emails.pdf)
+
+[Slides - Memos 3](https://github.com/jniziol/TechnicalWritingSkills/raw/master/Lesson%2025%20-%20Memos%20%26%20Emails.pdf)
