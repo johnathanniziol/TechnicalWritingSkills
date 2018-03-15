@@ -70,3 +70,9 @@ Links, Documents, Files and other stuff
 [Slides - Memos 2](https://github.com/jniziol/TechnicalWritingSkills/raw/master/Lesson%2021%20-%20Memos%20%26%20Emails.pdf)
 
 [Slides - Memos 3](https://github.com/jniziol/TechnicalWritingSkills/raw/master/Lesson%2025%20-%20Memos%20%26%20Emails.pdf)
+
+## Week 6
+
+[Writing Task #3 Submission](https://www.dropbox.com/request/xng3yKVN4w6pBG4vO79k)
+
+[Writing Task #3](https://github.com/jniziol/TechnicalWritingSkills/raw/master/Writing%20Task%20%233%20-%20Memo.pdf)
