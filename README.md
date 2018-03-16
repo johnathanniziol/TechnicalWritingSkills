@@ -76,3 +76,5 @@ Links, Documents, Files and other stuff
 [Writing Task #3 Submission](https://www.dropbox.com/request/xng3yKVN4w6pBG4vO79k)
 
 [Writing Task #3](https://github.com/jniziol/TechnicalWritingSkills/raw/master/Writing%20Task%20%233%20-%20Memo.pdf)
+
+[Writing Task #3 Rubric](https://github.com/jniziol/TechnicalWritingSkills/raw/master/SD-160%20In%20Class%20Writing%20Task%20%233%20-%20Rubric%20%26%20Grades%20-%20Sheet1.pdf)
