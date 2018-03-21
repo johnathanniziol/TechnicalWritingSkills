@@ -84,3 +84,5 @@ Links, Documents, Files and other stuff
 [Github Explore](https://github.com/explore)
 
 [Github Topics](https://github.com/topics)
+
+[Mastering Markdown](https://guides.github.com/features/mastering-markdown)
