@@ -88,3 +88,5 @@ Links, Documents, Files and other stuff
 [Mastering Markdown](https://guides.github.com/features/mastering-markdown)
 
 [Worksheet to Markdown Exercise](https://github.com/jniziol/TechnicalWritingSkills/raw/master/worksheetToMD.pdf)
+
+[Awesome Readme's](https://github.com/matiassingers/awesome-readme)
