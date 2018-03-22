@@ -96,3 +96,5 @@ Links, Documents, Files and other stuff
 [Email Assignment #6](https://github.com/jniziol/TechnicalWritingSkills/raw/master/Email%20Writing%20Assignment%20%236.pdf)
 
 [Email 6 Evaluation Criteria](https://github.com/jniziol/TechnicalWritingSkills/raw/master/SD-160%20Technical%20Writing%20-%20Email%20%235%20-%20Sheet1.pdf)
+
+[README Exercise #1](https://github.com/jniziol/TechnicalWritingSkills/raw/master/README%20Exercise%20%231.pdf)
