@@ -103,3 +103,4 @@ Links, Documents, Files and other stuff
 
 [README Exercise #2 Submission Link](https://www.dropbox.com/request/gyzmuSbHDo10Kt7VdsaZ)
 
+[InClass Writing Task #1](https://github.com/jniziol/TechnicalWritingSkills/raw/master/Lesson%2017%20-%20In-class%20Writing%20Task.pdf)
