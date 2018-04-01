@@ -110,8 +110,13 @@ Links, Documents, Files and other stuff
 ## Week 8
 
 [Instructions and Procedures](https://en.wikibooks.org/wiki/Professional_and_Technical_Writing/Instructions)
+
 [How to install Curtain Rods](https://www.hunker.com/13413665/how-to-install-curtain-rods)
+
 [How to Wash your Car](https://www.autopia-carcare.com/inf-wash.html)
+
 [How to Assemble a Desk](https://www.ikea.com/ms/en_US/customer_service/assembly/F/F80115988.pdf)
+
 [How to mount an ISO Image](https://www.wikihow.com/Mount-an-ISO-Image)
+
 [How to build a supercomputer](https://www.wikihow.com/Build-a-Supercomputer)
