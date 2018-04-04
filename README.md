@@ -120,3 +120,5 @@ Links, Documents, Files and other stuff
 [How to mount an ISO Image](https://www.wikihow.com/Mount-an-ISO-Image)
 
 [How to build a supercomputer](https://www.wikihow.com/Build-a-Supercomputer)
+
+[Instructions Rubric](https://github.com/jniziol/TechnicalWritingSkills/raw/master/SampleRubric.pdf)
