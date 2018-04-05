@@ -122,3 +122,5 @@ Links, Documents, Files and other stuff
 [How to build a supercomputer](https://www.wikihow.com/Build-a-Supercomputer)
 
 [Instructions Rubric](https://github.com/jniziol/TechnicalWritingSkills/raw/master/SampleRubric.pdf)
+
+[Instructions Assignment](https://github.com/jniziol/TechnicalWritingSkills/raw/master/Instructions.pdf)
