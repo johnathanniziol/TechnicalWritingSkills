@@ -121,6 +121,6 @@ Links, Documents, Files and other stuff
 
 [How to build a supercomputer](https://www.wikihow.com/Build-a-Supercomputer)
 
-[Instructions Rubric](https://github.com/jniziol/TechnicalWritingSkills/raw/master/SampleRubric.pdf)
+[Instructions Rubric](https://github.com/jniziol/TechnicalWritingSkills/blob/master/SD-160%20Instructions%20-%20Rubric%20%26%20Grades%20-%20Rubric.pdf)
 
 [Instructions Assignment](https://github.com/jniziol/TechnicalWritingSkills/raw/master/Instructions.pdf)
