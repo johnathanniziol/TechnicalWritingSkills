@@ -124,3 +124,7 @@ Links, Documents, Files and other stuff
 [Instructions Rubric](https://github.com/jniziol/TechnicalWritingSkills/blob/master/SD-160%20Instructions%20-%20Rubric%20%26%20Grades%20-%20Rubric.pdf)
 
 [Instructions Assignment](https://github.com/jniziol/TechnicalWritingSkills/raw/master/Instructions.pdf)
+
+## Week 9
+
+[README Assignment](https://github.com/jniziol/TechnicalWritingSkills/blob/master/ReadMe%20Assignment.pdf)
